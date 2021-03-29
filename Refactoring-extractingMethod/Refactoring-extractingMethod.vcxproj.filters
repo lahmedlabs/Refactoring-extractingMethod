@@ -18,6 +18,15 @@
     <ClInclude Include="Banner.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="BannerAR.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Prompt.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="PromptAR.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">

@@ -140,6 +140,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Banner.h" />
+    <ClInclude Include="BannerAR.h" />
+    <ClInclude Include="Prompt.h" />
+    <ClInclude Include="PromptAR.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
